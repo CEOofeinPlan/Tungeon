@@ -1,0 +1,20 @@
+C:\Users\ulf\Desktop\Tungeon\Tungeon472\obj\Debug\Tungeon472.csproj.AssemblyReference.cache
+C:\Users\ulf\Desktop\Tungeon\Tungeon472\obj\Debug\Better_Terminal.ASCIITerminal.resources
+C:\Users\ulf\Desktop\Tungeon\Tungeon472\obj\Debug\Tungeon.Properties.Resources.resources
+C:\Users\ulf\Desktop\Tungeon\Tungeon472\obj\Debug\Tungeon472.csproj.GenerateResource.cache
+C:\Users\ulf\Desktop\Tungeon\Tungeon472\obj\Debug\Tungeon472.csproj.CoreCompileInputs.cache
+C:\Users\ulf\Desktop\Tungeon\Tungeon472\bin\Debug\Tungeon472.exe.config
+C:\Users\ulf\Desktop\Tungeon\Tungeon472\bin\Debug\Tungeon472.exe
+C:\Users\ulf\Desktop\Tungeon\Tungeon472\bin\Debug\Tungeon472.pdb
+C:\Users\ulf\Desktop\Tungeon\Tungeon472\obj\Debug\Tungeon472.exe
+C:\Users\ulf\Desktop\Tungeon\Tungeon472\obj\Debug\Tungeon472.pdb
+C:\Programmieren\C#\2.0 netframework\Tungeon472\obj\Debug\Tungeon472.csproj.AssemblyReference.cache
+C:\Programmieren\C#\2.0 netframework\Tungeon472\obj\Debug\Better_Terminal.ASCIITerminal.resources
+C:\Programmieren\C#\2.0 netframework\Tungeon472\obj\Debug\Tungeon.Properties.Resources.resources
+C:\Programmieren\C#\2.0 netframework\Tungeon472\obj\Debug\Tungeon472.csproj.GenerateResource.cache
+C:\Programmieren\C#\2.0 netframework\Tungeon472\obj\Debug\Tungeon472.csproj.CoreCompileInputs.cache
+C:\Programmieren\C#\2.0 netframework\Tungeon472\obj\Debug\Tungeon472.exe
+C:\Programmieren\C#\2.0 netframework\Tungeon472\obj\Debug\Tungeon472.pdb
+C:\Programmieren\C#\2.0 netframework\Tungeon472\bin\Debug\Tungeon472.exe.config
+C:\Programmieren\C#\2.0 netframework\Tungeon472\bin\Debug\Tungeon472.exe
+C:\Programmieren\C#\2.0 netframework\Tungeon472\bin\Debug\Tungeon472.pdb
